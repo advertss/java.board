@@ -1,2 +1,4 @@
 # java.board
-test
+bin
+.classpath
+.project
